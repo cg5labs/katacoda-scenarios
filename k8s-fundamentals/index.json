@@ -4,16 +4,20 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1: Start K8s Cluster",
-        "text": "step1.md"
+        "title": "Start K8s Cluster",
+        "text": "01-start.md"
       },
       {
-        "title": "Step 2: Helm Deployment",
-        "text": "step2.md"
+        "title": "K8s Architecture",
+        "text": "02-arch.md"
+      },
+      {
+        "title": "Step 3: Helm Deployment",
+        "text": "03-helm.md"
       }
     ],
     "finish": {
-      "text": "finish.md"
+      "text": "04-finish.md"
     }
   },
   "environment": {
