@@ -12,8 +12,12 @@
         "text": "02-arch.md"
       },
       {
-        "title": "Step 3: Helm Deployment",
-        "text": "03-helm.md"
+        "title": "Namespaces",
+        "text": "03-namespaces.md"
+      },
+      {
+        "title": "Pods",
+        "text": "04-pods.md"
       }
     ],
     "finish": {

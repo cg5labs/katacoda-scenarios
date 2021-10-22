@@ -1,4 +1,3 @@
-### Kubernetes Architecture 
 
 The K8s cluster consists of two logical layers: Control Plane and Worker Plane. The Control Plane is the central cluster manager and runs all resources to manage the nodes in the worker plane. 
 
