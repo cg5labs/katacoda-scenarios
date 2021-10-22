@@ -1,11 +1,15 @@
 {
-  "title": "Kubernetes",
+  "title": "Kubernetes Fundamentals",
   "description": "Multi node Kubernetes cluster configured using Kubeadm",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1: Start K8s Cluster",
         "text": "step1.md"
+      },
+      {
+        "title": "Step 2: Helm Deployment",
+        "text": "step2.md"
       }
     ],
     "finish": {
